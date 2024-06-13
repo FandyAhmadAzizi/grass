@@ -75,7 +75,8 @@ async def main():
     
     proxy_urls = [
         "https://github.com/hookzof/socks5_list/raw/master/proxy.txt",
-        "https://github.com/monosans/proxy-list/raw/main/proxies/socks5.txt"
+        "https://github.com/monosans/proxy-list/raw/main/proxies/socks5.txt",
+        "https://github.com/sunny9577/proxy-scraper/raw/master/generated/socks5_proxies.txt"
     ]
     
     socks5_proxy_list = []
